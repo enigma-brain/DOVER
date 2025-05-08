@@ -1,4 +1,4 @@
-torch~=1.13
+torch
 torchvision
 opencv-python
 decord
